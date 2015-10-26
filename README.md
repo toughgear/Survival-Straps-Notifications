@@ -1,8 +1,7 @@
 # Survival Straps Notifications
 
-After the provisioning of the Active Edge Gear Notifications, customer service
-reported a nearly 100% fall in customers getting in touch asking questions after
-making an order. Thus, the same must be done for Survival Straps. 
+Survival Straps version of the new Shopify notifications emails. Using Zurb Ink,
+just like the Active Edge Gear repository. 
 
 
 ## References
