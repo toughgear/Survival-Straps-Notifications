@@ -132,7 +132,7 @@
                         <tr>
                           <td class="center">
                             <center>
-                              <a href="http://survivalstraps.com" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_logo.jpg?14914359792802310759" alt="Survival Straps" border="0" class="center"></a>
+                              <a href="http://survivalstraps.com" target="_blank"><img src="./images/logo_madeinamerica.png" alt="Survival Straps" border="0" class="center"></a>
                             </center>
                           </td>
                           <td class="expander"></td>
