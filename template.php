@@ -11,7 +11,7 @@
 
 
       body, .body {
-        background: #0064af;
+        background: #000000;
       }
 
       .pre-headerText {
@@ -103,11 +103,11 @@
                                       echo "Your order has been updated. ";
                                   break;
 
-                                  case "mailchimp_popup":
+                                  case "listrak_popup":
                                       echo "Please confirm your subscription. ";
                                   break;
 
-                                  case "mailchimp_confirmation":
+                                  case "listrak_confirmation":
                                       echo "Here's your coupon code!";
                                   break;
 
@@ -132,7 +132,7 @@
                         <tr>
                           <td class="center">
                             <center>
-                              <a href="http://activeedgegear.com" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_logo.jpg?14914359792802310759" alt="Active Edge Gear" border="0" class="center"></a>
+                              <a href="http://survivalstraps.com" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_logo.jpg?14914359792802310759" alt="Survival Straps" border="0" class="center"></a>
                             </center>
                           </td>
                           <td class="expander"></td>
@@ -184,9 +184,9 @@
                       <table class="seven columns">
                         <tr>
                           <td class="text-pad">
-                            <p><small><strong>Active Edge Gear</strong><br>
-                            <a href="http://activeedgegear.com" target="_blank">activeedgegear.com</a><br>
-                            <a href="mailto: support@activeedgegear.com">support@activeedgegear.com</a><br>
+                            <p><small><strong>Survival Straps</strong><br>
+                            <a href="http://survivalstraps.com" target="_blank">survivalstraps.com</a><br>
+                            <a href="mailto: customerservice@survivalstraps.com">customerservice@survivalstraps.com</a><br>
                             1-800-971-3360</small></p>
                           </td>
                           <td class="expander"></td>
@@ -200,13 +200,13 @@
                       <table class="five columns">
                         <tr>
                           <td class="four sub-columns center">
-                            <a href="http://facebook.com/activeedgegear" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_facebook.png?14914359792802310759" alt="Facebook" class="center"></a>
+                            <a href="http://facebook.com/survivalstraps" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_facebook.png?14914359792802310759" alt="Facebook" class="center"></a>
                           </td>
                           <td class="four sub-columns center">
-                              <a href="http://twitter.com/activeedgegear" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_twitter.png?14914359792802310759" alt="Twitter" class="center"></a>
+                              <a href="http://twitter.com/survivalstraps" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_twitter.png?14914359792802310759" alt="Twitter" class="center"></a>
                           </td>
                           <td class="four sub-columns last center">
-                              <a href="http://instagram.com/activeedgegear" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_instagram.png?14914359792802310759" alt="Instagram" class="center"></a>
+                              <a href="http://instagram.com/survivalstraps" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0659/8947/files/notifications_instagram.png?14914359792802310759" alt="Instagram" class="center"></a>
                           </td>
                           <td class="expander"></td>
                         </tr>
