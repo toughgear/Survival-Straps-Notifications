@@ -1,8 +1,8 @@
 
-<h2>Last change to get 10% off!</h2>
+<h2>Last chance to get 20% off!</h2>
 
 
-<p>{{ customer.first_name }}, today is your last chance to receive 10% off your purchase. Click the link below and enter coupon code <strong>TENOFF</strong> when you checkout to get the deal. Please do it today because your code expires at midnight.</p>
+<p>{{client_name}}, today is your last chance to receive 20% off your purchase. Click the link below and enter coupon code <strong>TWENTYOFF</strong> when you checkout to get the deal. Please do it today because your code expires at midnight.</p>
 
 <?php
 
@@ -13,12 +13,15 @@ embedButton("Complete Your Order!", "{{return_url}}");
 <br>
 <h4>Here's what you left in your cart:</h4>
 
-<!--{{each_product}}-->
+<p>
+    <ul>
+    <!--{{each_product}}-->
 
-	<li>{{product_name}} ({{product_price}})</li>
+        <li>{{product_name}} ({{product_price}})</li>
 
-<!--{{end_each_product}}-->
-</ul>
+    <!--{{end_each_product}}-->
+    </ul>
+</p>
 
 <h5>Questions about your order?</h5>
 <p>If you have any questions about your order, please reply to this email or call 1-800-971-3360 and we'll be happy to help you!</p>

@@ -2,7 +2,7 @@
 <h2>10% off if you complete your purchase today!</h2>
 
 
-<p>Thank you for your interest in Active Edge Gear&trade;, CLIENT. Complete your purchase today and we will give you 10% off! Enter code <strong>TENOFF</strong> at checkout to get this deal. Improve the quality of your life today!</p>
+<p>Thank you for your interest in Active Edge Gear&trade;, client_name}}. Complete your purchase today and we will give you 10% off! Enter code <strong>TENOFF</strong> at checkout to get this deal. Improve the quality of your life today!</p>
 
 <?php
 
@@ -13,12 +13,15 @@ embedButton("Complete Your Order!", "{{return_url}}");
 <br>
 <h4>Here's what you left in your cart:</h4>
 
-<!--{{each_product}}-->
+<p>
+    <ul>
+    <!--{{each_product}}-->
 
-	<li>{{product_name}} ({{product_price}})</li>
+        <li>{{product_name}} ({{product_price}})</li>
 
-<!--{{end_each_product}}-->
-</ul>
+    <!--{{end_each_product}}-->
+    </ul>
+</p>
 
 
 <h5>Questions about your order?</h5>
