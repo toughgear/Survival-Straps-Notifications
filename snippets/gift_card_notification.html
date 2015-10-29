@@ -1,6 +1,6 @@
 <h2>Your {{ gift_card.initial_value | money_without_trailing_zeros }} Gift Card</h2>
 
-<p>Hi {{ gift_card.customer.first_name }}, thanks for ordering an <a href="{{ shop.url }}">Active Edge Gear</a> gift card!
+<p>Hi {{ gift_card.customer.first_name }}, thanks for ordering an <a href="{{ shop.url }}">Survival Straps</a> gift card!
   {% if gift_card.initial_value != gift_card.balance %}
   <p>You have {{ gift_card.balance | money_without_trailing_zeros }} left on this gift card.
   {% endif %}
