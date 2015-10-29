@@ -11,7 +11,7 @@
 
 
       body, .body {
-        background: #000000;
+        background: #ffffff;
       }
 
       .pre-headerText {
@@ -23,7 +23,7 @@
       }
 
       .logo, .bodyText, .buttonText {
-        background: #fcfcfc;
+        background: #F0F0F0;
       }
 
       .footer {
@@ -31,9 +31,10 @@
         border-top: 1px solid #818181;
       }
 
-      h5 {
+      h1, h2, h3, h4, h5 {
         margin-top: 5px;
         margin-bottom: 10px;
+        line-height: 1.1;
       }
 
 
@@ -132,7 +133,7 @@
                         <tr>
                           <td class="center">
                             <center>
-                              <a href="http://survivalstraps.com" target="_blank"><img src="./images/logo_madeinamerica.png" alt="Survival Straps" border="0" class="center"></a>
+                              <a href="http://survivalstraps.com" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0643/4043/files/logo_madeinamerica.png?11454896936620283713" alt="Survival Straps" border="0" class="center"></a>
                             </center>
                           </td>
                           <td class="expander"></td>
@@ -184,10 +185,10 @@
                       <table class="seven columns">
                         <tr>
                           <td class="text-pad">
-                            <p><small><strong>Survival Straps</strong><br>
+                            <p style="font-size: 10px; line-height: 14px;"><strong>Survival Straps</strong><br>
                             <a href="http://survivalstraps.com" target="_blank">survivalstraps.com</a><br>
                             <a href="mailto: customerservice@survivalstraps.com">customerservice@survivalstraps.com</a><br>
-                            1-800-971-3360</small></p>
+                            1-800-971-3360</p>
                           </td>
                           <td class="expander"></td>
                         </tr>
