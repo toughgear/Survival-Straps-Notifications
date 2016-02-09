@@ -69,7 +69,7 @@
                                   break;
 
                                   case "abandoned_24hr":
-                                      echo "A big reminder!! ";
+                                      echo "25% off today";
                                   break;
 
                                   case "abandoned_48hr":
