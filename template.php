@@ -65,7 +65,7 @@
                               switch($switch) {
 
                                   case "abandoned_6hr":
-                                      echo "A little reminder. ";
+                                      echo "Complete Your Purchase";
                                   break;
 
                                   case "abandoned_24hr":
